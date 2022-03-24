@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://github.com/webbukkit/dynmap/wiki
+tourl: http://pillager.hostify.cz:47459/?worldname=Brmo&mapname=flat&zoom=2&x=-108&y=64&z=286
 ---
